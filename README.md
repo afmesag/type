@@ -14,3 +14,8 @@ To remove the containers and all the images from your local, do:
 ```
 docker-compose down --rmi all
 ```
+
+## TODO
+ - [ ] Replace the restaurants url for a real one.
+ - [ ] Convert from the restaurants api format into the domain restaurant format.
+ - [ ] Add tests.
